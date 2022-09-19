@@ -16,4 +16,4 @@
 
     Looking for a remote job!
 
-    Here's a link to my portfolio at some engineering projects I worked on: [My Engineering Portfolio](https://julialouzada5.wixsite.com/portfolio)
+Here's a link to some engineering projects I worked on [My Engineering Portfolio](https://julialouzada5.wixsite.com/portfolio) 
